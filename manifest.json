@@ -1,0 +1,54 @@
+{
+    "item": {
+      "name": "星空之眼-StarEye",
+      "description": "星空之眼表盘的AstroBox预览版，付费版请至爱发电下载，爱发电商品同名",
+      "preview": ["preview.png", "preview2.png","preview3.png","preview4.png","preview5.png"],
+      "icon": "icon.png",
+      "author": [{
+        "name": "Aether空",
+        "author_url": "https://www.bandbbs.cn/members/1680068/"
+      }]
+    },
+    "downloads": {
+      "n62": {
+        "version": "1.0.0",
+        "file_name": "S.bin"
+      },
+     "o62": {
+        "version": "1.0.0",
+        "file_name": "S.bin"
+      },
+     "o62m": {
+        "version": "1.0.0",
+        "file_name": "S.bin"
+      },
+      "o65": {
+        "version":"1.0.0",
+        "file_name":"RW5.bin"
+      },
+      "o65m": {
+        "version":"1.0.0",
+        "file_name":"RW5.bin"
+      },
+      "o66nfc": {
+        "version":"1.0.0",
+        "file_name":"B10.bin"
+      },
+      "o66": {
+        "version":"1.0.0",
+        "file_name":"B10.bin"
+      },
+      "n66": {
+        "version":"1.0.0",
+        "file_name":"B8B9.bin"
+      },
+      "n67": {
+        "version":"1.0.0",
+        "file_name":"B8PB9P.bin"
+      }
+    }
+  }
+
+  
+
+
